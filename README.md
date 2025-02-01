@@ -1,62 +1,68 @@
 # Hi there! 👋 I'm Jayakishan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F78C6C&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Cybersecurity+%7C+IoT;Building+Cool+Tech+for+a+Better+Future!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F78C6C&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Web_Development+%7C+Cybersecurity;Building+Innovative+Tech+for+a+Better+Future!)
 
 ---
 
 ## 🚀 About Me
-- 🔬 Passionate about AI, ML, and IoT innovations.
+- 🔍 Passionate about AI, ML, and IoT innovations.
 - 🛠 Currently working on **Chat Bot** & **Cyber Triage**.
 - 📚 Exploring deep learning & edge AI applications.
-- 💡 Always open to collaboration & hackathons!
+- 🤝 Always open to collaboration & hackathons!
 
 ---
 
 ## 🎓 Education
-- 📖 **B.Tech Information Technology** - Sri Ramakrishna Engineering College
+- 🎓 **B.Tech Information Technology** - Sri Ramakrishna Engineering College
 - 📅 Expected Graduation: 2027
-- 🏆 Involved in research, hackathons, and AI projects.
+- 🏆 Engaged in research, hackathons, and AI-driven projects.
 
 ---
 
 ## 🛠 Tech Stack
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishan0818&show_icons=true&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kishan0818&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishan0818&show_icons=true&theme=radical&hide=issues,contribs"/>
+</p>
 
 ---
 
-## 🏆 Latest Projects
+## 🏆 Featured Projects
 - 🚂 **Railway Track Crack Monitoring System** - AI-powered track defect detection.
-- 🔍 **Cyber Triage** - Analyzing digital evidence for cybersecurity.
-- 🤖 **Chat Bot** - Adaptable Chat Management System
+- 🔍 **Cyber Triage** - Digital forensic analysis for cybersecurity.
+- 🤖 **Chat Bot** - Adaptive chat management system.
 
-*(More projects on my GitHub!)*
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayakishan-balagopal-978613300/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayakishanb18@gmail.com)
+*(Check out more on my GitHub!)*
 
 ---
 
-### 🎉 Thanks for visiting! Keep innovating 🚀
+## 📣 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jayakishan-balagopal-978613300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jayakishanb18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎉 Thanks for stopping by! Keep innovating 🚀
