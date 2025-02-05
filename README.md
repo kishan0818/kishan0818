@@ -1,39 +1,42 @@
-# Hi there! 👋 I'm Jayakishan
+# Hello! I'm Jayakishan 👋 <img src="https://komarev.com/ghpvc/?username=kishan0818&label=Profile+Views&color=00FFFF&style=flat" align="right" alt="Profile Views"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F78C6C&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Web_Development+%7C+Cybersecurity;Building+Innovative+Tech+for+a+Better+Future!)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Web_Development;Building+Innovative+Tech+for+a+Better+Future!)
+  
 ---
 
-## 🚀 About Me
-- 🔍 Passionate about AI, ML, and IoT innovations.
-- 🛠 Currently working on **Chat Bot** & **Cyber Triage**.
-- 📚 Exploring deep learning & edge AI applications.
-- 🤝 Always open to collaboration & hackathons!
+## About Me
+I'm an aspiring IT student passionate about AI, ML, and full-stack web development. Currently exploring deep learning and edge AI applications, I am eager to contribute to open-source projects and collaborate with fellow developers.
+- Currently learning data structures and algorithms
+- Looking to collaborate on AI/ML automation
+- Seeking internship opportunities to gain real-world experience
 
 ---
 
 ## 🎓 Education
 - 🎓 **B.Tech Information Technology** - Sri Ramakrishna Engineering College
-- 📅 Expected Graduation: 2027
-- 🏆 Engaged in research, hackathons, and AI-driven projects.
+- 📅 **Expected Graduation:** 2027
+- 🏆 **Engaged in research, hackathons, and AI-driven projects.**
+- 📪 **Email:** <a href="mailto:jayakishanb18@gmail.com" style="color:#00FFFF;">jayakishanb18@gmail.com</a>
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/>
 </p>
 
 ---
@@ -41,7 +44,7 @@
 ## 🔥 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishan0818&show_icons=true&theme=radical&hide=issues,contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishan0818&show_icons=true&theme=tokyonight&hide=issues,contribs"/>
 </p>
 
 ---
@@ -49,7 +52,7 @@
 ## 🏆 Featured Projects
 - 🚂 **Railway Track Crack Monitoring System** - AI-powered track defect detection.
 - 🔍 **Cyber Triage** - Digital forensic analysis for cybersecurity.
-- 🤖 **Chat Bot** - Adaptive chat management system.
+- 🤖 **Chat Bot** - Adaptive chat management system. (Private repo)
 
 *(Check out more on my GitHub!)*
 
@@ -57,8 +60,12 @@
 
 ## 📣 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/jayakishan-balagopal-978613300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jayakishanb18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jayakishan-balagopal-978613300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jayakishanb18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
