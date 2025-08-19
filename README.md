@@ -1,6 +1,6 @@
 # Hello! I'm Jayakishan 👋 <img src="https://komarev.com/ghpvc/?username=kishan0818&label=Profile+Views&color=00FFFF&style=flat" align="right" alt="Profile Views"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Web_Development;Building+Innovative+Tech+for+a+Better+Future!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00FFFF&vCenter=true&width=700&lines=AI+%7C+ML+%7C+Full_Stack_Development;Building+Innovative+Tech+for+a+Better+Future!)
   
 ---
 
