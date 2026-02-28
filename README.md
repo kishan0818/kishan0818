@@ -39,34 +39,35 @@ I’m still learning, and I genuinely enjoy that process.
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
-- Python, TypeScript, Java, C, C++, SQL  
-
-**AI / ML**
-- Machine Learning, Deep Learning  
-- Explainable AI (SHAP)  
-- Computer Vision, YOLO  
-- Random Forest, XGBoost, CNNs  
-
-**Backend & Full-Stack**
-- FastAPI, Flask, Node.js  
-- Next.js, React, Tailwind CSS  
-- REST APIs  
-
-**Databases & Infra**
-- MongoDB, MySQL, SQLite  
-- Supabase  
-- Firebase  
-
-**Tools**
-- Git, GitHub, Docker  
-- Linux  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
+</p>
 
 ---
 
-## 🔥 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishan0818&show_icons=true&theme=tokyonight&hide=issues" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kishan0818&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -109,4 +110,4 @@ I’m still learning, and I genuinely enjoy that process.
 
 ---
 
-⭐ Thanks for stopping by. I enjoy building things the right way.
+⭐ Thanks for stopping by. Let's keep Innovating!
