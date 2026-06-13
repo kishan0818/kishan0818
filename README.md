@@ -1,7 +1,7 @@
 # Hi, I'm Jayakishan 👋  
 <img src="https://komarev.com/ghpvc/?username=kishan0818&label=Profile+Views&color=00E0B8&style=flat" align="right" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00E0B8&vCenter=true&width=1000&lines=AI+%7C+Automation+%7C+Full-Stack+Engineering;Building+Reliable+and+Scalable+Software+Systems;From+Enterprise+Workflows+to+Production+Deployments;Machine+Learning+%7C+MLOps+%7C+Quality+Engineering;Turning+Ideas+Into+Real-World+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00E0B8&vCenter=true&width=1000&lines=AI/ML+%7C+Automation+%7C+Full-Stack+Engineering;Building+Reliable+and+Scalable+Software+Systems;From+Enterprise+Workflows+to+Production+Deployments;Machine+Learning+%7C+MLOps+%7C+Quality+Engineering;Turning+Ideas+Into+Real-World+Solutions)
 ---
 
 ## 👨‍💻 About Me
