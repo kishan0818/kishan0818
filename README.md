@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a pre-final year **B.Tech Information Technology** student interested in building intelligent systems that work beyond isolated or ideal environments. My focus has grown from basic programming to designing **end-to-end AI-driven systems** that combine machine learning, backend infrastructure, and user-facing applications.
+I’m a final year **B.Tech Information Technology** student interested in building intelligent systems that work beyond isolated or ideal environments. My focus has grown from basic programming to designing **end-to-end AI-driven systems** that combine machine learning, backend infrastructure, and user-facing applications.
 
 I care about **reliability, explainability, and real-world deployment**, not just notebook-level accuracy. Through projects, internships, and hackathons, I’ve worked across domains such as healthcare, cybersecurity, fintech, and IoT, with an emphasis on clean architecture and practical constraints.
 
